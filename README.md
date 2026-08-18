@@ -9,10 +9,9 @@ theta (θ), M and X of the given parametric curve.
 
 The curve is defined by:
 
-x(t) = t*cos(θ) - exp(M|t|)*sin(0.3t)*sin(θ) + X
+x = (t ∗ cos(θ) − eM∣t∣⋅ sin(0.3t) sin(θ) + X)
 
-y(t) = 42 + t*sin(θ) + exp(M|t|)*sin(0.3t)*cos(θ)
-
+y = (42 + t ∗ sin(θ) + e ⋅ sin(0.3t) cos(θ) M∣t∣ )
 ## Parameter Ranges
 
 - 0° < θ < 50°
